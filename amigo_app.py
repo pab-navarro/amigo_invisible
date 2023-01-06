@@ -15,7 +15,7 @@ streamlit.markdown('**No incluye:**')
 streamlit.markdown('**Opcional:** Grabación del vuelo y se ofrece un video editado personalizado con la experiencia, por un coste de 20 € (pago directo el día del vuelo)')
 streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195/casarubios-01_BIG.jpg)")
 streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195/avion_visto_xdcha_web_BIG.jpg)")
-streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195/casarubios-02_BIG.jpg)")
+streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195/casarubios-02_BIG.jpg){: .center-image}")
 
 streamlit.markdown('<h1 align="center">LOCALIZACIÓN</h1>', unsafe_allow_html=True)
 
