@@ -14,9 +14,9 @@ streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
 
 # center on Liberty Bell, add marker
-m = folium.Map(location=[40,189823, -4,024408], zoom_start=16)
+m = folium.Map(location=[40.189823, -4.024408], zoom_start=16)
 folium.Marker(
-    [40,189823, -4,024408], popup="Liberty Bell", tooltip="Liberty Bell"
+    [40.189823, -4.024408], popup="Sitio del regalo", tooltip="Sitio del regalo"
 ).add_to(m)
 
 # call to render Folium map in Streamlit
