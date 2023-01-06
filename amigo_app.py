@@ -14,7 +14,7 @@ streamlit.markdown('**Recomendación:** No es necesaria ninguna indumentaria esp
 streamlit.markdown('**No incluye:**')
 streamlit.markdown('**Opcional:** Grabación del vuelo y se ofrece un video editado personalizado con la experiencia, por un coste de 20 € (pago directo el día del vuelo)')
 
-streamlit.markdown(![Alt text](https://www.rolactivo.com/admin/actividades/3195/casarubios-01_BIG.jpg)
+streamlit.markdown('![Alt text](https://www.rolactivo.com/admin/actividades/3195/casarubios-01_BIG.jpg')
 
 
 
