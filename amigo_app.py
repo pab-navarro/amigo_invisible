@@ -5,7 +5,7 @@ from streamlit_folium import st_folium
 
 streamlit.markdown('<div class="markdown-google-sans"><h1>¿Qué es Colaboratory?</h1></div>')
 
-streamlit.markdown('<h1 align="center">BONO REGALO AMIGO INVISIBLE + CUMPLEAÑOS</h1>')
+streamlit.markdown('<h1 align="center">BONO REGALO AMIGO INVISIBLE + CUMPLEAÑOS</h1>', unsafe_allow_html=True)
 streamlit.markdown('Te queremos regalar este bono de parte de Pablo y Amaya. Este bono es canjeable en cualquier momento por un bautismo de vuelo en un avión ultraligero :airplane:.')
 streamlit.markdown('**Lugar donde se realiza:** Casarrubios del Monte - Toledo')
 streamlit.markdown('**Duración de la actividad:** Desde 30 minutos')
