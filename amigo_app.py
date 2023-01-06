@@ -3,8 +3,6 @@ import pandas
 import folium
 from streamlit_folium import st_folium
 
-streamlit.markdown('<div class="markdown-google-sans"><h1>¿Qué es Colaboratory?</h1></div>')
-
 streamlit.markdown('<h1 align="center">BONO REGALO AMIGO INVISIBLE + CUMPLEAÑOS</h1>', unsafe_allow_html=True)
 streamlit.markdown('Te queremos regalar este bono de parte de Pablo y Amaya. Este bono es canjeable en cualquier momento por un bautismo de vuelo en un avión ultraligero :airplane:.')
 streamlit.markdown('**Lugar donde se realiza:** Casarrubios del Monte - Toledo')
@@ -18,6 +16,9 @@ streamlit.markdown('**Opcional:** Grabación del vuelo y se ofrece un video edit
 streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195/casarubios-01_BIG.jpg)")
 streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195/avion_visto_xdcha_web_BIG.jpg)")
 streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195/casarubios-02_BIG.jpg)")
+
+
+streamlit.markdown('<img src="https://www.rolactivo.com/admin/actividades/3195/casarubios-01_BIG.jpg" align="left" /><img src="https://www.rolactivo.com/admin/actividades/3195/avion_visto_xdcha_web_BIG.jpg" align="left" />', unsafe_allow_html=True)
 
 
 
