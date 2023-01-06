@@ -4,9 +4,8 @@ import folium
 from streamlit_folium import st_folium
 
 streamlit.title('BONO REGALO AMIGO INVISIBLE')
-streamlit.header('Breakfast Favorites')
-streamlit.text('Este bono lo podrás canjear en el momento que mejor que venga.')
-streamlit.text('Lugar donde se realiza: Casarrubios del Monte - Toledo')
+streamlit.markdown('Este bono lo podrás canjear en el momento que mejor que venga.')
+streamlit.markdown('**Lugar donde se realiza:** Casarrubios del Monte - Toledo')
 streamlit.text('Duración de la actividad: Desde 30 minutos')
 streamlit.text('Incluye:')
 streamlit.text('Vuelo con piloto. En el ultraligero irán el piloto y participante.')
