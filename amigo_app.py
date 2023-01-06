@@ -19,6 +19,8 @@ streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195
 
 streamlit.markdown('<h1 align="center">LOCALIZACIÓN</h1>', unsafe_allow_html=True)
 
+streamlit.markdown('<table cellpadding="0" cellspacing="0" border="0" width="100%"> <tr><td align="center"> <img src="https://www.rolactivo.com/admin/actividades/3195/casarubios-02_BIG.jpg"> </td></tr> </table>', unsafe_allow_html=True)
+
 
 # center on Liberty Bell, add marker
 m = folium.Map(location=[40.189823, -4.024408], zoom_start=13)
