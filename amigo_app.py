@@ -3,7 +3,7 @@ import pandas
 import folium
 from streamlit_folium import st_folium
 
-streamlit.title('BONO REGALO AMIGO INVISIBLE + CUMPLEAÑOS :plane:')
+streamlit.title('BONO REGALO AMIGO INVISIBLE + CUMPLEAÑOS :airplane:')
 streamlit.markdown('Te queremos regalar este bono de parte de Pablo y Amaya. Este bono es canjeable en cualquier momento por un bautismo de vuelo en un avión ultraligero.')
 streamlit.markdown('**Lugar donde se realiza:** Casarrubios del Monte - Toledo')
 streamlit.markdown('**Duración de la actividad:** Desde 30 minutos')
