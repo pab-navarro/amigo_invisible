@@ -3,8 +3,8 @@ import pandas
 import folium
 from streamlit_folium import st_folium
 
-streamlit.title('BONO REGALO AMIGO INVISIBLE')
-streamlit.markdown('Este bono lo podrás canjear en el momento que mejor que venga.')
+streamlit.title('BONO REGALO AMIGO INVISIBLE + CUMPLEAÑOS')
+streamlit.markdown('Te queremos regalar este bono de parte de Pablo y Amaya. Lo podrás canjear en el momento que mejor que venga.')
 streamlit.markdown('**Lugar donde se realiza:** Casarrubios del Monte - Toledo')
 streamlit.markdown('**Duración de la actividad:** Desde 30 minutos')
 streamlit.markdown('**Incluye:**')
@@ -14,6 +14,8 @@ streamlit.markdown('**Recomendación:** No es necesaria ninguna indumentaria esp
 streamlit.markdown('**No incluye:**')
 streamlit.markdown('**Opcional:** Grabación del vuelo y se ofrece un video editado personalizado con la experiencia, por un coste de 20 € (pago directo el día del vuelo)')
 streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195/casarubios-01_BIG.jpg)")
+streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195/avion_visto_xdcha_web_BIG.jpg)")
+streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195/casarubios-02_BIG.jpg)")
 
 
 
