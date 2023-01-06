@@ -17,7 +17,7 @@ streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195
 streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195/avion_visto_xdcha_web_BIG.jpg)")
 streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195/casarubios-02_BIG.jpg)")
 
-streamlit.markdown('<div class="row">  <div class="column">    <img src="https://www.rolactivo.com/admin/actividades/3195/casarubios-01_BIG.jpg" alt="Snow" style="width:100%">  </div>  <div class="column">    <img src="https://www.rolactivo.com/admin/actividades/3195/avion_visto_xdcha_web_BIG.jpg" alt="Forest" style="width:100%"> </div><div class="column"> <img src="https://www.rolactivo.com/admin/actividades/3195/casarubios-02_BIG.jpg" alt="Mountains" style="width:100%"></div></div>')
+streamlit.markdown('<div class="row">  <div class="column">    <img src="https://www.rolactivo.com/admin/actividades/3195/casarubios-01_BIG.jpg" alt="Snow" style="width:100%">  </div>  <div class="column">    <img src="https://www.rolactivo.com/admin/actividades/3195/avion_visto_xdcha_web_BIG.jpg" alt="Forest" style="width:100%"> </div><div class="column"> <img src="https://www.rolactivo.com/admin/actividades/3195/casarubios-02_BIG.jpg" alt="Mountains" style="width:100%"></div></div>', unsafe_allow_html=True)
 
 
 
