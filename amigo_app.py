@@ -17,7 +17,7 @@ streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195
 streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195/avion_visto_xdcha_web_BIG.jpg)")
 streamlit.markdown("![Alt Text](https://www.rolactivo.com/admin/actividades/3195/casarubios-02_BIG.jpg)")
 
-streamlit.header('LOCALIZACIÓN')
+streamlit.markdown('<h1 align="center">LOCALIZACIÓN</h1>', unsafe_allow_html=True)
 
 
 # center on Liberty Bell, add marker
