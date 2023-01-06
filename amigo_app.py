@@ -6,10 +6,17 @@ from streamlit_folium import st_folium
 streamlit.title('BONO REGALO AMIGO INVISIBLE')
 streamlit.markdown('Este bono lo podrás canjear en el momento que mejor que venga.')
 streamlit.markdown('**Lugar donde se realiza:** Casarrubios del Monte - Toledo')
-streamlit.text('Duración de la actividad: Desde 30 minutos')
-streamlit.text('Incluye:')
-streamlit.text('Vuelo con piloto. En el ultraligero irán el piloto y participante.')
-streamlit.text('Recomendación: No es necesaria ninguna indumentaria especial, vestimenta normal y cómoda, zapato bajo.')
+streamlit.markdown('**Duración de la actividad:** Desde 30 minutos')
+streamlit.markdown('**Incluye:**')
+streamlit.markdown('Vuelo con piloto. En el ultraligero irán el piloto y participante.')
+streamlit.markdown('**Recomendación:** No es necesaria ninguna indumentaria especial, vestimenta normal y cómoda, zapato bajo.')
+
+streamlit.markdown('**No incluye:**')
+streamlit.markdown('**Opcional:** Grabación del vuelo y se ofrece un video editado personalizado con la experiencia, por un coste de 20 € (pago directo el día del vuelo)')
+
+streamlit.markdown(![Alt text](https://www.rolactivo.com/admin/actividades/3195/casarubios-01_BIG.jpg)
+
+
 
 streamlit.header('LOCALIZACIÓN')
 
