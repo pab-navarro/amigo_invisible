@@ -33,3 +33,9 @@ folium.Marker(
 
 # call to render Folium map in Streamlit
 st_data = st_folium(m, width=725)
+
+streamlit.markdown("""
+<h1 align="center">RICHI ATERRIZANDO</h1>""", unsafe_allow_html=True)
+streamlit.markdown("![Alt Text](https://media3.giphy.com/media/HW14ptNE7lJw4/200.gif?cid=790b7611xq4pppva4mw60avv6h24ja5e2lx1v9t8oos6tdmd&rid=200.gif&ct=g)")
+
+
